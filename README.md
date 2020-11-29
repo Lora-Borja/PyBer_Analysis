@@ -6,6 +6,7 @@ The initial PyBer analysis required creating visualizations of rideshare data to
 ## Analysis Results
 
 * PyBer's Ride-Sharing Summary by City Type
+
 ![pyber_summary_df](https://github.com/Lora-Borja/PyBer_Analysis/blob/main/analysis/pyber_summary_df.png)
 
 
@@ -17,6 +18,7 @@ The Rural areas shows the least amount of activity and revenue. With a total rid
 
 
 * PyBer's Total Weekly Fare by City Type 
+
 ![PyBer_fare_summary_](https://github.com/Lora-Borja/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
