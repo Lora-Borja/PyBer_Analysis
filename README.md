@@ -6,7 +6,7 @@ The initial PyBer analysis required creating visualizations of rideshare data to
 ## Analysis Results
 
 * PyBer's Ride-Sharing Summary by City Type
-![pyber_summary_df]()
+![pyber_summary_df](https://github.com/Lora-Borja/PyBer_Analysis/blob/main/analysis/pyber_summary_df.png)
 
 
 More than half of PyBer's business are concentrated in the Urban areas making it the most lucrative nieghborhood out of the three different city types. With a total ride count of 1,625 the average fare per ride is $24.53. With a total driver count of 2,405 the average fare per driver is $16.57. This demonstrate PyBer's ride-sharing services are definitely more affordable and accessible in the urban city type.
@@ -17,7 +17,7 @@ The Rural areas shows the least amount of activity and revenue. With a total rid
 
 
 * PyBer's Total Weekly Fare by City Type 
-![PyBer_fare_summary_]()
+![PyBer_fare_summary_](https://github.com/Lora-Borja/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
 In this graph we can see the total weekly fares for each city type between the months of January to April. Similar outcome to the above summary is displayed here with the urban areas contributing the highest weekly revenue over the three different city types, followed by the suburban areas, then the rural areas.
